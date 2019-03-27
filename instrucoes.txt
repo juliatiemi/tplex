@@ -1,0 +1,6 @@
+O programa foi desenvolvido em Python3
+
+Para executá-lo, utilize a seguinte linha de comando:
+ py tplex.py [arquivo de entrada] [arquivo de saida]
+
+ - Por: Julia Tiemi
